@@ -1,0 +1,10 @@
+  0         1
+  012345678901234
+00.r.r. . . . . .
+ 1bBbBb          
+ 2.b.r. . . . . .
+ 3bBbRr          
+ 4.r.b. . . . . .
+
+Player B has 3 boxes (win)
+Player R has 1 box
